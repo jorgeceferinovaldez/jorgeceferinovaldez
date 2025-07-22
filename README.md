@@ -151,12 +151,12 @@ me = Developer()
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jorgeceferinovaldez/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-1&theme=tokyonight" />
+  <a href="https://github.com/jorgeceferinovaldez/nombre-repo-real-1">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jorgeceferinovaldez&repo=chatbot_novelas&theme=tokyonight" />
   </a>
-  <a href="https://github.com/jorgeceferinovaldez/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-2&theme=tokyonight" />
-  </a>
+  <!-- <a href="https://github.com/jorgeceferinovaldez/nombre-repo-real-2">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jorgeceferinovaldez&repo=nombre-repo-real-2&theme=tokyonight" />
+  </a> -->
 </div>
 
 ## 📈 Contribution Graph
