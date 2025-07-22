@@ -134,27 +134,27 @@ me = Developer()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeceferinovaldez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeceferinovaldez&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeceferinovaldez&theme=tokyonight" alt="Streak Stats"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jorgeceferinovaldez&theme=tokyonight&no-frame=true&column=7"/>
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project-1">
+  <a href="https://github.com/jorgeceferinovaldez/project-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project-2">
+  <a href="https://github.com/jorgeceferinovaldez/project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-2&theme=tokyonight" />
   </a>
 </div>
@@ -162,7 +162,7 @@ me = Developer()
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgeceferinovaldez&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
 </div>
 
 ## 🌐 Connect with Me
@@ -187,10 +187,6 @@ me = Developer()
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 
 <div align="center">
   
