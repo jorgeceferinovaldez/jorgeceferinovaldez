@@ -151,7 +151,7 @@ me = Developer()
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jorgeceferinovaldez/nombre-repo-real-1">
+  <a href="https://github.com/jorgeceferinovaldez/chatbot_novelas">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jorgeceferinovaldez&repo=chatbot_novelas&theme=tokyonight" />
   </a>
   <!-- <a href="https://github.com/jorgeceferinovaldez/nombre-repo-real-2">
